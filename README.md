@@ -1,0 +1,1 @@
+在application.properties中添加一些属性配置并把属性的值绑定在User类中，保证单元测试通过。
